@@ -1,11 +1,18 @@
+
+
 <h1 align="center">Hi 👋, I'm Aqeel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <a href="https://twitter.com/aqeelabbas3972" target="blank"><img src="https://img.shields.io/twitter/follow/aqeelabbas3972?logo=twitter&style=for-the-badge" alt="aqeelabbas3972" /></a> </p>
 
-- 💬 Ask me about **Java, JavaScript, Spring Boot, Angular**
+- 🌱 I’m currently learning **Asterisk PBX**
+
+- 💬 Ask me about **Java, JavaScript, Spring Boot, Angular, VoIP**
 
 - 📫 How to reach me **gfullstackdeveloper@gmail.com**
+
+- ⚡ Fun fact **I think I can make my own javascript library 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
