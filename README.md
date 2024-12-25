@@ -17,10 +17,8 @@
 <a href="https://stackoverflow.com/users/17098451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17098451" height="30" width="40" /></a>
 <a href="https://codesandbox.com/aqeelabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aqeelabbas" height="30" width="40" /></a>
 <a href="https://fb.com/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
-<a href="https://instagram.com/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
 <a href="https://medium.com/@aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aqeelabbas3972" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aqeelabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aqeelabbas" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
