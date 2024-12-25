@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Asterisk PBX**
 
-- 💬 Ask me about **Java, JavaScript, Spring Boot, Angular, VoIP**
+- 💬 Ask me about **Java, Spring Boot, Angular, VoIP**
 
 - 📫 How to reach me **gfullstackdeveloper@gmail.com**
 
