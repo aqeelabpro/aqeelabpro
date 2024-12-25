@@ -29,11 +29,7 @@
 ![Aqeel Abbas' GitHub stats](https://github-readme-stats.vercel.app/api?username=aqeelabpro\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide=contribs,issues)
 
 # Other Stats
-
-<img src="https://assets.holopin.io/hf2024levels/level1-sloth-code-0-0-0-0.webp" width="220" height="220" />
-<img src="https://assets.holopin.io/hf2024levels/level2-sloth-code-0-0-0-0.webp" width="220" height="220" />
-<img src="https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp" width="220" height="220" />
-<img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-0-0-0-0.webp" width="220" height="220" />
+[![An image of @aqeelabpro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aqeelabpro)](https://holopin.io/@aqeelabpro)
 
 # Top Languages
 <a href="https://github.com/aqeelabpro">
