@@ -19,7 +19,7 @@ I build **backend services and telephony automation** that connect software with
 
 - **Core focus:** Backend engineering, VoIP integrations, telephony automation
 - **Application development:** Java · Spring Boot · Angular
-- **Telephony engineering:** Asterisk · FreePBX · FreeSWITCH · SIP/PJSIP · AMI · ARI · AGI · IVR
+- **Telephony engineering:** Asterisk · FreePBX · SIP/PJSIP · AMI · ARI · AGI · IVR
 - **Systems:** Linux · Docker · AWS · REST APIs · Webhooks
 - **Availability:** Open to discussing backend and VoIP engineering collaborations
 
@@ -35,7 +35,7 @@ I build **backend services and telephony automation** that connect software with
 
 **TELEPHONY & AUTOMATION**
 
-![Asterisk](https://img.shields.io/badge/Asterisk-F97316?style=for-the-badge) ![FreePBX](https://img.shields.io/badge/FreePBX-2563EB?style=for-the-badge) ![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-059669?style=for-the-badge) ![SIP/PJSIP](https://img.shields.io/badge/SIP%20%2F%20PJSIP-334155?style=for-the-badge) ![AMI/ARI/AGI](https://img.shields.io/badge/AMI%20%2F%20ARI%20%2F%20AGI-0E7490?style=for-the-badge) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![Vonage](https://img.shields.io/badge/Vonage-4338CA?style=for-the-badge)
+![Asterisk](https://img.shields.io/badge/Asterisk-F97316?style=for-the-badge) ![FreePBX](https://img.shields.io/badge/FreePBX-2563EB?style=for-the-badge) ![SIP/PJSIP](https://img.shields.io/badge/SIP%20%2F%20PJSIP-334155?style=for-the-badge) ![AMI/ARI/AGI](https://img.shields.io/badge/AMI%20%2F%20ARI%20%2F%20AGI-0E7490?style=for-the-badge) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![Vonage](https://img.shields.io/badge/Vonage-4338CA?style=for-the-badge)
 
 **INFRASTRUCTURE & WORKFLOW**
 
