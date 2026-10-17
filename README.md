@@ -1,37 +1,161 @@
-<h1 align="center">Hi 👋, I'm Aqeel</h1>
-<h3 align="center">Backend and VoIP Developer </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/aqeelabbas3972" target="blank"><img src="https://img.shields.io/twitter/follow/aqeelabbas3972?logo=twitter&style=for-the-badge" alt="aqeelabbas3972" /></a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:22d3ee&height=210&section=header&text=Aqeel%20Abbas&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=BACKEND%20ENGINEER%20%20%7C%20%20VoIP%20SPECIALIST&descAlignY=57&descSize=17" alt="Aqeel Abbas banner" />
 
-- 🌱 I’m currently learning **Asterisk PBX**
+<a href="https://github.com/aqeelabpro"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=760&lines=Engineering+intelligent+telephony+workflows;Asterisk+%7C+FreePBX;Java+%7C+Spring+Boot+%7C+Angular;From+SIP+signaling+to+production+APIs" alt="Animated introduction" /></a>
 
-- 💬 Ask me about **Java, Spring Boot, Angular, VoIP**
-
-- 📫 How to reach me **gfullstackdeveloper@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17098451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17098451" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aqeelabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aqeelabbas" height="30" width="40" /></a>
-<a href="https://fb.com/aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aqeelabbas3972" height="30" width="40" /></a>
-<a href="https://medium.com/@aqeelabbas3972" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aqeelabbas3972" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aqeelabbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aqeelabbas" height="30" width="40" /></a>
+<p>
+<a href="https://www.linkedin.com/in/aqeelabbas3972/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/aqeelabbas3972"><img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:gfullstackdeveloper@gmail.com"><img src="https://img.shields.io/badge/Let's%20Connect-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/aqeelabpro?tab=repositories"><img src="https://img.shields.io/badge/Explore%20My%20Code-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<div>
+</div>
 
-# Github Stats
-![GitHub Stats](https://github-readme-stats-one-liard-83.vercel.app/api?username=aqeelabpro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues&v=2)
+## `01` / The engineer behind the systems
 
-# Other Stats
-[![An image of @aqeelabpro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aqeelabpro)](https://holopin.io/@aqeelabpro)
+I build **backend services and telephony automation** that connect software with real-world calling infrastructure. My work spans **Asterisk and FreePBX integrations, SIP call flows, automated dialers, IVR workflows, call recordings, speech processing, and API-driven communications**.
 
-# Top Languages
-<a href="https://github.com/aqeelabpro">
-  <img height=200 align="center" src="https://github-readme-stats-one-liard-83.vercel.app/api/top-langs?username=aqeelabpro&layout=compact&langs_count=8&card_width=320" />
-</a>
+- **Core focus:** Backend engineering, VoIP integrations, telephony automation
+- **Application development:** Java · Spring Boot · Angular
+- **Telephony engineering:** Asterisk · FreePBX · FreeSWITCH · SIP/PJSIP · AMI · ARI · AGI · IVR
+- **Systems:** Linux · Docker · AWS · REST APIs · Webhooks
+- **Availability:** Open to discussing backend and VoIP engineering collaborations
+
+---
+
+## `02` / My toolkit
+
+<div align="center">
+
+**APPLICATION ENGINEERING**
+
+<img src="https://skillicons.dev/icons?i=java,spring,angular&theme=dark" alt="Java Spring Boot Angular" />
+
+**TELEPHONY & AUTOMATION**
+
+![Asterisk](https://img.shields.io/badge/Asterisk-F97316?style=for-the-badge) ![FreePBX](https://img.shields.io/badge/FreePBX-2563EB?style=for-the-badge) ![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-059669?style=for-the-badge) ![SIP/PJSIP](https://img.shields.io/badge/SIP%20%2F%20PJSIP-334155?style=for-the-badge) ![AMI/ARI/AGI](https://img.shields.io/badge/AMI%20%2F%20ARI%20%2F%20AGI-0E7490?style=for-the-badge) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white) ![Vonage](https://img.shields.io/badge/Vonage-4338CA?style=for-the-badge)
+
+**INFRASTRUCTURE & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,aws,git,github&theme=dark" alt="Linux Docker AWS Git GitHub" />
+
+</div>
+
+---
+
+## `03` / Featured client engineering work
+
+> [!NOTE]
+> The following are **anonymized project summaries** from professional work. Source repositories are private and client-specific implementation details are not shared. Public descriptions should be used only where client agreements permit.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📞 Automated Outbound Calling Platform
+
+**Challenge:** Replace repetitive manual dialing for large contact lists.
+
+**Built:** An Angular interface for CSV uploads, a Java/Spring Boot backend, and an Asterisk-based outbound calling workflow to initiate calls automatically.
+
+**Stack:** `Java` `Spring Boot` `Angular` `Asterisk` `SIP`
+
+<sub>PRIVATE CLIENT PROJECT · 2023</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Call Recording & Speech Processing
+
+**Challenge:** Process recorded calls for quality assurance, including long recordings.
+
+**Built:** A Java integration connecting Asterisk recordings, FTP storage, and Google Cloud Speech-to-Text. Addressed failures on long recordings by moving to asynchronous long-running recognition.
+
+**Stack:** `Java` `Asterisk` `Google Cloud STT` `FTP`
+
+<sub>PRIVATE CLIENT PROJECT · 2023</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Telegram VoIP & Subscription Platform
+
+**Challenge:** Let users manage calling services and subscriptions through Telegram.
+
+**Built:** A Java Telegram bot with VoIP functionality, plan purchases, wallet generation, and payment workflows. Migrated the payment integration from Coinbase to OxaPay.
+
+**Stack:** `Java` `Telegram Bot API` `VoIP` `REST APIs`
+
+<sub>PRIVATE CLIENT PROJECT · 2023</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ☎️ Call Center Backend & Dialer
+
+**Challenge:** Support call-center operations through a backend integrated with telephony.
+
+**Contributed:** Spring Boot APIs, JWT authentication, ADMIN/AGENT authorization, Asterisk AMI call origination, dialer functionality, and analytics endpoints.
+
+**Stack:** `Java` `Spring Boot` `Asterisk AMI` `REST APIs`
+
+<sub> INTERNSHIP · 2026</sub>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More engineering projects</b></summary>
+<br />
+
+| Project | Engineering contribution | Technologies |
+|:--|:--|:--|
+| **Twilio + Make.com Call Automation** | Connected workflow events to automated calls using APIs and webhooks. | `Twilio` `Make.com` `REST` `Webhooks` |
+| **Automated DTMF Calling System** | Developed Asterisk dialplans that send DTMF sequences during calls to interact with external IVR systems. | `Asterisk` `SIP` `DTMF` `Dialplans` |
+
+</details>
+
+---
+
+## `04` / Public work
+
+Explore my [GitHub repositories](https://github.com/aqeelabpro?tab=repositories) for publicly available code and experiments.
+
+<!-- Replace these links with individual verified repositories when you want to highlight them. -->
+
+---
+
+## `05` / GitHub at a glance
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-one-liard-83.vercel.app/api?username=aqeelabpro&show_icons=true&hide=contribs,issues&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&rank_icon=github" alt="Aqeel GitHub stats" />
+<img height="180" src="https://github-readme-stats-one-liard-83.vercel.app/api/top-langs?username=aqeelabpro&layout=compact&langs_count=8&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1&border_color=1e293b" alt="GitHub top languages" />
+
+
+</div>
+
+---
+
+## `06` / Community & beyond
+
+<div align="center">
+
+[![Holopin achievements](https://holopin.me/aqeelabpro)](https://holopin.io/@aqeelabpro)
+
+[Stack Overflow](https://stackoverflow.com/users/17098451) · [LeetCode](https://leetcode.com/aqeelabbas/) · [Medium](https://medium.com/@aqeelabbas3972) · [CodeSandbox](https://codesandbox.io/u/aqeelabbas)
+
+### Have a backend or telephony challenge?
+
+**Let's discuss reliable APIs, calling workflows, and communication systems.**
+
+<a href="mailto:gfullstackdeveloper@gmail.com"><img src="https://img.shields.io/badge/Contact%20Me-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" /></a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0e7490,100:22d3ee&height=110&section=footer" alt="Footer wave" />
+
+</div>
