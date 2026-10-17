@@ -26,7 +26,7 @@
 <div>
 
 # Github Stats
-![Aqeel Abbas' GitHub stats](https://github-readme-stats-one-liard-83.vercel.app/api?username=aqeelabpro\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff&hide=contribs,issues)
+![GitHub Stats](https://github-readme-stats-one-liard-83.vercel.app/api?username=aqeelabpro&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues&v=2)
 
 # Other Stats
 [![An image of @aqeelabpro's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aqeelabpro)](https://holopin.io/@aqeelabpro)
